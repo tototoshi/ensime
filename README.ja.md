@@ -7,7 +7,7 @@ the ENhanced Scala Interaction Mode for Emacs
 - [ Discussion Group ](http://groups.google.com/group/ensime?hl=en)
 
 
-## Features
+## 特徴
 
 - エラーや警告をバッファにハイライト表示
 - 任意の式の型の調査
